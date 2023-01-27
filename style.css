@@ -252,8 +252,29 @@ h3{
    margin: 100px 0 200px 0;
 
 }
-.hide{
-   display: none;
+
+
+                                 /* FOOTER FORM */
+form{
+   width: 100%;
+   margin: 0 auto;
+   text-align: center;
+}
+input{
+   
+width: 60%;
+padding: 25px ;
+margin-bottom: 30px;
+border:2px solid #ff870e;
+border-radius: 5px;
+
+   
+}
+.contact-section{
+   background-color:#727272;
+   padding: 80px 0 20px 0;
+   margin: 100px 0 ;
+   border-radius: 5px;
 }
 
 
